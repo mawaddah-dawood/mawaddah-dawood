@@ -9,18 +9,6 @@
 </div>
 
 <hr>
-
-## 🚀 About Me
-
-- 🎓 طالبة **هندسة أنظمة حاسوب**
-- 💻 أعمل على تطوير مهاراتي في البرمجة باستخدام:
-  - Java
-  - C++
-  - Python
-- 🔐 مهتمة بمجال **Cybersecurity** و **Network Engineering**
-- 🌐 أسعى لبناء مسار قوي في مجال **أمن الشبكات والأنظمة**
-- 📚 أتعلم باستمرار وأعمل على تطوير نفسي تقنيًا وعمليًا
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -33,24 +21,6 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=flat)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 💡 Currently Learning
-
-- 🔐 أساسيات واختبار الاختراق (Penetration Testing)
-- 🌐 الشبكات (Networking Fundamentals)
-- 🐧 أنظمة Linux واستخدامها في الأمن السيبراني
-
----
-
-## 📌 أهدافي
-
-- أن أصبح **Cybersecurity Engineer**
-- بناء مشاريع قوية في:
-  - Network Security
-  - Ethical Hacking
-- العمل مع شركات تقنية كبيرة مستقبلًا 🚀
 
 ---
 
