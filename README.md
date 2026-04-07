@@ -29,7 +29,7 @@
 
 <h2>🚀 What I'm Doing</h2>
 
-<ul>
+<ul style="margin-left: 20px;">
   <li>📚 Studying Computer System Engineering</li>
   <li>💻 Practicing programming daily</li>
   <li>🧠 Improving problem-solving skills</li>
@@ -53,7 +53,7 @@
 <h2>📫 Connect with me</h2>
 
 <p align="left">
-  <a href="www.linkedin.com/in/mawaddah-dawood-6970063b0>
+  <a href="https://www.linkedin.com/in/mawaddah-dawood-6970063b0">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
@@ -66,4 +66,4 @@
 
 <h2>✨ Quote</h2>
 
-<p><i>"Start where you are. Use what you have. Do what you can."</i></p>
+<p><i>"Small steps every day lead to big achievements."</i></p>
