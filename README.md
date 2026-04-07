@@ -2,45 +2,68 @@
 
 <h3 align="center">Computer System Engineering Student | Programmer | Cybersecurity Enthusiast</h3>
 
-<hr>
-
-<h2>👩‍💻 About Me</h2>
-<p>
-🎓 Computer System Engineering student <br>
-💡 Passionate about Cybersecurity, Problem Solving, and Artificial Intelligence <br>
-🚀 Always working on improving my programming and technical skills <br>
-🎯 Goal: To become a highly skilled engineer and build a strong career in tech
+<p align="center">
+  🚀 Passionate about building skills, solving problems, and growing in tech
 </p>
 
 <hr>
 
-<h2>💻 Skills</h2>
+<h2>👩‍💻 About Me</h2>
 
-<ul>
-  <li>Java ☕</li>
-  <li>C++ ⚙️</li>
-  <li>Python 🐍</li>
-  <li>HTML 🌐</li>
-</ul>
+<p>
+🎓 Computer System Engineering Student <br>
+💡 Interested in Cybersecurity, Artificial Intelligence, and Problem Solving <br>
+💻 Currently improving my programming skills and building projects <br>
+🎯 Goal: Become a highly skilled engineer and work in a professional tech environment
+</p>
 
 <hr>
 
-<h2>🚀 What I'm Currently Doing</h2>
+<h2>💻 Tech Stack</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html" />
+</p>
+
+<hr>
+
+<h2>🚀 What I'm Doing</h2>
+
 <ul>
   <li>📚 Studying Computer System Engineering</li>
   <li>💻 Practicing programming daily</li>
   <li>🧠 Improving problem-solving skills</li>
-  <li>🔐 Exploring Cybersecurity fundamentals</li>
+  <li>🔐 Exploring Cybersecurity basics</li>
 </ul>
 
 <hr>
 
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<hr>
+
 <h2>📫 Connect with me</h2>
-<p>
-(You can add your email or LinkedIn here later)
+
+<p align="left">
+  <a href="www.linkedin.com/in/mawaddah-dawood-6970063b0>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mawaddahdawood@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
 <hr>
 
 <h2>✨ Quote</h2>
+
 <p><i>"Start where you are. Use what you have. Do what you can."</i></p>
