@@ -38,28 +38,6 @@
 
 <hr>
 
-<h2>📁 Projects</h2>
-
-<ul style="margin-left: 20px;">
-  <li>
-    <b>Simple Java Calculator</b> - A basic calculator that can add, subtract, multiply, and divide. <br>
-    <i>Tech used:</i> Java, OOP, Git <br>
-    <a href="https://github.com/mawaddah-dawood/Simple-Java-Calculator" target="_blank">View Project</a>
-  </li>
-  <li>
-    <b>Personal Portfolio Website</b> - My first website to showcase my projects and skills. <br>
-    <i>Tech used:</i> HTML, CSS, JavaScript <br>
-    <a href="https://github.com/mawaddah-dawood/Portfolio-Website" target="_blank">View Project</a>
-  </li>
-  <li>
-    <b>Python Quiz Game</b> - A command-line quiz game to test general knowledge. <br>
-    <i>Tech used:</i> Python <br>
-    <a href="https://github.com/mawaddah-dawood/Python-Quiz-Game" target="_blank">View Project</a>
-  </li>
-</ul>
-
-<hr>
-
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
