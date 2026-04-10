@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mawaddah Dawood</h1>
 
-<h3 align="center">Computer System Engineering Student | Programmer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Computer Systems Engineering Student | Programmer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   🚀 Passionate about building skills, solving problems, and growing in tech
