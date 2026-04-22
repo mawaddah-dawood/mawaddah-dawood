@@ -22,7 +22,7 @@
 <h2>💻 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,linux" />
 </p>
 
 <hr>
