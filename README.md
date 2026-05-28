@@ -51,7 +51,6 @@
 <hr>
 
 <h2>📫 Connect with me</h2>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/mawaddah-dawood-6970063b0">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
